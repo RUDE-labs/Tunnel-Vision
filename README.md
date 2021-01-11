@@ -5,15 +5,11 @@
 </p>
 
 
-dTok is a decentralized pay-as-you-go live streaming platform 📹. Decentralized transcoding is handled via [Livepeer](https://livepeer.org/) and micro-payments via the [Connext Network](https://connext.network/) built by Stake Capital for its transcoder [Stake Capital Transcoder](https://medium.com/stakecapital/stake-capital-now-supports-livepeer-26f934ffcbea).
+Tunnel Vision is a decentralized pay-as-you-go live streaming platform 📹. Decentralized transcoding is handled via [Livepeer](https://livepeer.org/) and micro-payments via the [Connext Network](https://connext.network/) built by dGuild for its transcoder [dGuild](https://explorer.livepeer.org/orchestrators).
 
-This dTok stream viewing dApp inspired by SpankCard (based on Dai Card) and Austin Griffith's burner wallet, dTok is hosted in the browser, which utilizes Connext's Indra payment channels. More information at [DTok](https://forum.livepeer.org/t/transcoder-campaign-stake-capital-0xa6a9/678).
+This Tunnel Vision stream viewing dApp inspired by SpankCard (based on Dai Card) and Austin Griffith's burner wallet, Tunnel Vision is hosted in the browser, which utilizes Connext's Indra payment channels. 
 
 For Dai Card-specific documentation please see the [Dai Card repo](https://github.com/ConnextProject/card).
-
-## Live Demo
-
-See it live at: https://dtok.stake.capital
 
 ## Contents
 - [Development](#development)
