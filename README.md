@@ -1,7 +1,7 @@
 # Tunnel Vision
 
 <p align="center">
-  <img src="https://github.com/RUDE-labs/Tunnel-Vision/images/Asset 42 1.png" />
+  <img src="https://github.com/RUDE-labs/Tunnel-Vision/blob/master/images/Asset%2042%201.png" />
 </p>
 
 
