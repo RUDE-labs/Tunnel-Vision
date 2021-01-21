@@ -1,7 +1,7 @@
-# dTok Dai Card
+# Tunnel Vision
 
 <p align="center">
-  <img src="https://github.com/stake-capital/dTok-dai-card/blob/master/src/assets/dTok/dtok-logo.jpg" />
+  <img src="https://github.com/RUDE-labs/Tunnel-Vision/images/Asset 42 1.png" />
 </p>
 
 
