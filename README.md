@@ -11,8 +11,8 @@ This Tunnel Vision stream viewing dApp inspired by SpankCard (based on Dai Card)
 
 For Dai Card-specific documentation please see the [Dai Card repo](https://github.com/ConnextProject/card).
 
-## [Website](https://tunnelvision.media)
-## [Twitter](https://twitter.com/_TunnelVision__)
+# [Website](https://tunnelvision.media)
+# [Twitter](https://twitter.com/_TunnelVision__)
 
 ## Contents
 - [Development](#development)
